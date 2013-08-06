@@ -1,0 +1,27 @@
+[
+    {
+        "Region": "Central",
+        "Road_Length": "6705.63",
+        "Road_Density": "24"
+    },
+    {
+        "Region": "Eastern",
+        "Road_Length": "3562.21",
+        "Road_Density": "13"
+    },
+    {
+        "Region": "Far Western",
+        "Road_Length": "1479.79",
+        "Road_Density": "8"
+    },
+    {
+        "Region": "Mid Western",
+        "Road_Length": "2404.90",
+        "Road_Density": "6"
+    },
+    {
+        "Region": "Western",
+        "Road_Length": "3128.04",
+        "Road_Density": "11"
+    }
+]

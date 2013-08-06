@@ -1,0 +1,38 @@
+[
+    {
+        "Type": "Minor",
+        "Pedestrian": "249",
+        "Bicycle": "76",
+        "Rickshaw": "3",
+        "Motorcycle": "229",
+        "Tempo": "97",
+        "Car": "78",
+        "MiniBus": "66",
+        "Bus": "44",
+        "Truck": "19"
+    },
+    {
+        "Type": "Serious",
+        "Pedestrian": "90",
+        "Bicycle": "17",
+        "Rickshaw": "1",
+        "Motorcycle": "75",
+        "Tempo": "13",
+        "Car": "21",
+        "MiniBus": "6",
+        "Bus": "15",
+        "Truck": "3"
+    },
+    {
+        "Type": "Fatal",
+        "Pedestrian": "42",
+        "Bicycle": "4",
+        "Rickshaw": "0",
+        "Motorcycle": "19",
+        "Tempo": "2",
+        "Car": "3",
+        "MiniBus": "4",
+        "Bus": "4",
+        "Truck": "3"
+    }
+]

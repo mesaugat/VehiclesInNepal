@@ -1,0 +1,109 @@
+h1 {
+	color: #4d4d4d;
+	font-family: "Myriad Pro", Helvetica, Arial, sans-serif;
+	font-size: 48px;
+	font-weight: normal;
+}
+
+h1 a { color: #4d4d4d; text-decoration: none; }
+
+h2 {
+	color: #4d4d4d;
+	font-family: "Roboto-Bold", "Myriad Pro", Helvetica, Arial, sans-serif;
+	font-size: 32px;
+	font-weight: normal;
+}
+
+h3 {
+	color: #333;
+	font-family: "Roboto-Bold", "Myriad Pro", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+h4 {
+	color: #333;
+	font-family: "Roboto-Bold", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+h4 a { color: #333; }
+
+h5 {
+	color: #333;
+	font-family: "Roboto-Bold", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+h5 a { color: #c00; text-decoration: none; }
+
+/* Paragraph styling */
+p {
+	color: #01183b;
+	font-family: "Roboto-Regular", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+p a {
+	font-weight: normal;
+}
+
+p#footer-text { 
+	text-align: right;
+	font-size: 11px;
+}
+
+div#contact-information p {
+	font-size: 13px;
+}
+
+p.text {
+	font-size: 14px;
+	text-align: justify;
+}
+
+div#faq p {
+	font-size: 14px;
+}
+
+a { 
+	color: #c00; 
+}
+
+label {
+	font-family: "Roboto-Bold";
+}
+
+input, textarea {
+	font-family: "Roboto-Regular";
+}
+
+table {
+	font-family: 'Roboto-Regular', Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center; 
+}
+
+@font-face {
+	font-family: 'Roboto-Regular';
+	src: url('../fonts/Roboto-Regular-webfont.eot');
+	src: url('../fonts/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/Roboto-Regular-webfont.woff') format('woff'),
+			 url('../fonts/Roboto-Regular-webfont.ttf') format('truetype'),
+			 url('../fonts/Roboto-Regular-webfont.svg#Roboto-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto-Bold';
+	src: url('../fonts/Roboto-Bold-webfont.eot');
+	src: url('../fonts/Roboto-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/Roboto-Bold-webfont.woff') format('woff'),
+			 url('../fonts/Roboto-Bold-webfont.ttf') format('truetype'),
+			 url('../fonts/Roboto-Bold-webfont.svg#Roboto-Bold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

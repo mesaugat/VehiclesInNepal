@@ -1,0 +1,83 @@
+[
+    {
+        "Year": "2001",
+        "Accidents": "3823",
+        "Fatalities": "879",
+        "Serious_Injuries": "458",
+        "Slight_Injuries": "4138",
+        "Injury_Fatality_Ratio": "5.23",
+        "Fatality_Per_TenThousand_Vehicles": "66.20"
+    },
+    {
+        "Year": "2002",
+        "Accidents": "3864",
+        "Fatalities": "682",
+        "Serious_Injuries": "785",
+        "Slight_Injuries": "4442",
+        "Injury_Fatality_Ratio": "7.66",
+        "Fatality_Per_TenThousand_Vehicles": "48.38"
+    },
+    {
+        "Year": "2003",
+        "Accidents": "5430",
+        "Fatalities": "802",
+        "Serious_Injuries": "1659",
+        "Slight_Injuries": "3925",
+        "Injury_Fatality_Ratio": "6.96",
+        "Fatality_Per_TenThousand_Vehicles": "52.04"
+    },
+    {
+        "Year": "2004",
+        "Accidents": "5532",
+        "Fatalities": "808",
+        "Serious_Injuries": "1795",
+        "Slight_Injuries": "4039",
+        "Injury_Fatality_Ratio": "7.22",
+        "Fatality_Per_TenThousand_Vehicles": "49.42"
+    },
+    {
+        "Year": "2005",
+        "Accidents": "3894",
+        "Fatalities": "825",
+        "Serious_Injuries": "1866",
+        "Slight_Injuries": "3655",
+        "Injury_Fatality_Ratio": "6.69",
+        "Fatality_Per_TenThousand_Vehicles": "47.64"
+    },
+    {
+        "Year": "2006",
+        "Accidents": "4546",
+        "Fatalities": "953",
+        "Serious_Injuries": "2583",
+        "Slight_Injuries": "5331",
+        "Injury_Fatality_Ratio": "8.30",
+        "Fatality_Per_TenThousand_Vehicles": "50.17"
+    },
+    {
+        "Year": "2007",
+        "Accidents": "6821",
+        "Fatalities": "1131",
+        "Serious_Injuries": "2663",
+        "Slight_Injuries": "5245",
+        "Injury_Fatality_Ratio": "6.99",
+        "Fatality_Per_TenThousand_Vehicles": "54.90"
+    },
+    {
+        "Year": "2008",
+        "Accidents": "8353",
+        "Fatalities": "1356",
+        "Serious_Injuries": "3609",
+        "Slight_Injuries": "6457",
+        "Injury_Fatality_Ratio": "7.42",
+        "Fatality_Per_TenThousand_Vehicles": "60.21"
+    },
+    {
+        "Year": "2009",
+        "Accidents": "11747",
+        "Fatalities": "1734",
+        "Serious_Injuries": "4130",
+        "Slight_Injuries": "7383",
+        "Injury_Fatality_Ratio": "6.64",
+        "Fatality_Per_TenThousand_Vehicles": "67.13"
+    }
+]

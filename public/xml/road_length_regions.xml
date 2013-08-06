@@ -1,0 +1,27 @@
+<result>
+	<row>
+		<Region>Central</Region>
+		<Road_Length>6705.63</Road_Length>
+		<Road_Density>24</Road_Density>
+	</row>
+	<row>
+		<Region>Eastern</Region>
+		<Road_Length>3562.21</Road_Length>
+		<Road_Density>13</Road_Density>
+	</row>
+	<row>
+		<Region>Far Western</Region>
+		<Road_Length>1479.79</Road_Length>
+		<Road_Density>8</Road_Density>
+	</row>
+	<row>
+		<Region>Mid Western</Region>
+		<Road_Length>2404.90</Road_Length>
+		<Road_Density>6</Road_Density>
+	</row>
+	<row>
+		<Region>Western</Region>
+		<Road_Length>3128.04</Road_Length>
+		<Road_Density>11</Road_Density>
+	</row>
+</result>

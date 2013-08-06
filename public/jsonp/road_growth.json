@@ -1,0 +1,58 @@
+[
+    {
+        "Year": "1985",
+        "Highways": "1960",
+        "Feeder_Roads": "1875",
+        "Urban_Roads": "866",
+        "District_Roads": "1224"
+    },
+    {
+        "Year": "1990",
+        "Highways": "2111",
+        "Feeder_Roads": "1822",
+        "Urban_Roads": "1098",
+        "District_Roads": "2299"
+    },
+    {
+        "Year": "1994",
+        "Highways": "2734",
+        "Feeder_Roads": "1520",
+        "Urban_Roads": "1339",
+        "District_Roads": "3941"
+    },
+    {
+        "Year": "1998",
+        "Highways": "2905",
+        "Feeder_Roads": "1835",
+        "Urban_Roads": "1868",
+        "District_Roads": "6615"
+    },
+    {
+        "Year": "2002",
+        "Highways": "3029",
+        "Feeder_Roads": "1832",
+        "Urban_Roads": "2198",
+        "District_Roads": "9775"
+    },
+    {
+        "Year": "2004",
+        "Highways": "3339",
+        "Feeder_Roads": "4196",
+        "Urban_Roads": "2260",
+        "District_Roads": "7486"
+    },
+    {
+        "Year": "2006",
+        "Highways": "4198",
+        "Feeder_Roads": "5201",
+        "Urban_Roads": "2260",
+        "District_Roads": "7223"
+    },
+    {
+        "Year": "2009",
+        "Highways": "4718",
+        "Feeder_Roads": "6117",
+        "Urban_Roads": "2473",
+        "District_Roads": "6956"
+    }
+]

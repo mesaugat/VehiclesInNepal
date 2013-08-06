@@ -1,0 +1,377 @@
+[
+    {
+        "District": "Achham",
+        "Road_Length": 79.5,
+        "Road_Density": 5
+    },
+    {
+        "District": "Arghakhanchi",
+        "Road_Length": 186.91,
+        "Road_Density": 16
+    },
+    {
+        "District": "Baglung",
+        "Road_Length": 35.63,
+        "Road_Density": 2
+    },
+    {
+        "District": "Baitadi",
+        "Road_Length": 198.86,
+        "Road_Density": 13
+    },
+    {
+        "District": "Bajhang",
+        "Road_Length": 73.2,
+        "Road_Density": 2
+    },
+    {
+        "District": "Bajura",
+        "Road_Length": 11.8,
+        "Road_Density": 1
+    },
+    {
+        "District": "Banke",
+        "Road_Length": 386.41,
+        "Road_Density": 17
+    },
+    {
+        "District": "Bara",
+        "Road_Length": 300.34,
+        "Road_Density": 25
+    },
+    {
+        "District": "Bardiya",
+        "Road_Length": 293.02,
+        "Road_Density": 14
+    },
+    {
+        "District": "Bhaktapur",
+        "Road_Length": 182.08,
+        "Road_Density": 153
+    },
+    {
+        "District": "Bhojpur",
+        "Road_Length": 0,
+        "Road_Density": 0
+    },
+    {
+        "District": "Chitwan",
+        "Road_Length": 789.86,
+        "Road_Density": 36
+    },
+    {
+        "District": "Dadeldhura",
+        "Road_Length": 192.58,
+        "Road_Density": 13
+    },
+    {
+        "District": "Dailekh",
+        "Road_Length": 188.9,
+        "Road_Density": 13
+    },
+    {
+        "District": "Dang",
+        "Road_Length": 589.78,
+        "Road_Density": 20
+    },
+    {
+        "District": "Darchula",
+        "Road_Length": 66.42,
+        "Road_Density": 3
+    },
+    {
+        "District": "Dhading",
+        "Road_Length": 263.88,
+        "Road_Density": 14
+    },
+    {
+        "District": "Dhankuta",
+        "Road_Length": 244.88,
+        "Road_Density": 27
+    },
+    {
+        "District": "Dhanusa",
+        "Road_Length": 660.21,
+        "Road_Density": 56
+    },
+    {
+        "District": "Dolakha",
+        "Road_Length": 243.88,
+        "Road_Density": 11
+    },
+    {
+        "District": "Dolpa",
+        "Road_Length": 0,
+        "Road_Density": 0
+    },
+    {
+        "District": "Doti",
+        "Road_Length": 183.41,
+        "Road_Density": 9
+    },
+    {
+        "District": "Gorkha",
+        "Road_Length": 124.84,
+        "Road_Density": 3
+    },
+    {
+        "District": "Gulmi",
+        "Road_Length": 217.54,
+        "Road_Density": 19
+    },
+    {
+        "District": "Humla",
+        "Road_Length": 0,
+        "Road_Density": 0
+    },
+    {
+        "District": "Ilam",
+        "Road_Length": 387.95,
+        "Road_Density": 23
+    },
+    {
+        "District": "Jajarkot",
+        "Road_Length": 22,
+        "Road_Density": 1
+    },
+    {
+        "District": "Jhapa",
+        "Road_Length": 603.24,
+        "Road_Density": 38
+    },
+    {
+        "District": "Jumla",
+        "Road_Length": 13,
+        "Road_Density": 1
+    },
+    {
+        "District": "Kailali",
+        "Road_Length": 449.8,
+        "Road_Density": 14
+    },
+    {
+        "District": "Kalikot",
+        "Road_Length": 7,
+        "Road_Density": 0
+    },
+    {
+        "District": "Kanchanpur",
+        "Road_Length": 224.22,
+        "Road_Density": 14
+    },
+    {
+        "District": "Kapilbastu",
+        "Road_Length": 355.97,
+        "Road_Density": 20
+    },
+    {
+        "District": "Kaski",
+        "Road_Length": 464.46,
+        "Road_Density": 23
+    },
+    {
+        "District": "Kathmandu",
+        "Road_Length": 914.83,
+        "Road_Density": 232
+    },
+    {
+        "District": "Kavrepalanchok",
+        "Road_Length": 435.59,
+        "Road_Density": 31
+    },
+    {
+        "District": "Khotang",
+        "Road_Length": 0,
+        "Road_Density": 0
+    },
+    {
+        "District": "Lalitpur",
+        "Road_Length": 348.41,
+        "Road_Density": 90
+    },
+    {
+        "District": "Lamjung",
+        "Road_Length": 113.57,
+        "Road_Density": 7
+    },
+    {
+        "District": "Mahottari",
+        "Road_Length": 465.29,
+        "Road_Density": 46
+    },
+    {
+        "District": "Makwanpur",
+        "Road_Length": 346.04,
+        "Road_Density": 14
+    },
+    {
+        "District": "Manang",
+        "Road_Length": 0,
+        "Road_Density": 0
+    },
+    {
+        "District": "Morang",
+        "Road_Length": 661.72,
+        "Road_Density": 36
+    },
+    {
+        "District": "Mugu",
+        "Road_Length": 0,
+        "Road_Density": 0
+    },
+    {
+        "District": "Mustang",
+        "Road_Length": 0,
+        "Road_Density": 0
+    },
+    {
+        "District": "Myagdi",
+        "Road_Length": 22,
+        "Road_Density": 1
+    },
+    {
+        "District": "Nawalparasi",
+        "Road_Length": 253.33,
+        "Road_Density": 12
+    },
+    {
+        "District": "Nuwakot",
+        "Road_Length": 248.71,
+        "Road_Density": 22
+    },
+    {
+        "District": "Okhaldhunga",
+        "Road_Length": 41,
+        "Road_Density": 4
+    },
+    {
+        "District": "Palpa",
+        "Road_Length": 291.84,
+        "Road_Density": 21
+    },
+    {
+        "District": "Panchthar",
+        "Road_Length": 177.86,
+        "Road_Density": 14
+    },
+    {
+        "District": "Parbat",
+        "Road_Length": 68.11,
+        "Road_Density": 14
+    },
+    {
+        "District": "Parsa",
+        "Road_Length": 282.91,
+        "Road_Density": 21
+    },
+    {
+        "District": "Pyuthan",
+        "Road_Length": 216,
+        "Road_Density": 17
+    },
+    {
+        "District": "Ramechhap",
+        "Road_Length": 130,
+        "Road_Density": 8
+    },
+    {
+        "District": "Rasuwa",
+        "Road_Length": 97.5,
+        "Road_Density": 6
+    },
+    {
+        "District": "Rautahat",
+        "Road_Length": 200.33,
+        "Road_Density": 18
+    },
+    {
+        "District": "Rolpa",
+        "Road_Length": 77.79,
+        "Road_Density": 4
+    },
+    {
+        "District": "Rukum",
+        "Road_Length": 49.7,
+        "Road_Density": 2
+    },
+    {
+        "District": "Rupandehi",
+        "Road_Length": 352.81,
+        "Road_Density": 26
+    },
+    {
+        "District": "Salyan",
+        "Road_Length": 202.16,
+        "Road_Density": 14
+    },
+    {
+        "District": "Sankhuwasabha",
+        "Road_Length": 32.2,
+        "Road_Density": 1
+    },
+    {
+        "District": "Saptari",
+        "Road_Length": 336.8,
+        "Road_Density": 25
+    },
+    {
+        "District": "Sarlahi",
+        "Road_Length": 446.32,
+        "Road_Density": 35
+    },
+    {
+        "District": "Sindhuli",
+        "Road_Length": 107.2,
+        "Road_Density": 4
+    },
+    {
+        "District": "Sindhupalchok",
+        "Road_Length": 242.25,
+        "Road_Density": 10
+    },
+    {
+        "District": "Siraha",
+        "Road_Length": 305.93,
+        "Road_Density": 26
+    },
+    {
+        "District": "Solukhumbu",
+        "Road_Length": 0,
+        "Road_Density": 0
+    },
+    {
+        "District": "Sunsari",
+        "Road_Length": 475.03,
+        "Road_Density": 38
+    },
+    {
+        "District": "Surkhet",
+        "Road_Length": 359.14,
+        "Road_Density": 15
+    },
+    {
+        "District": "Syangja",
+        "Road_Length": 238.14,
+        "Road_Density": 20
+    },
+    {
+        "District": "Tanahu",
+        "Road_Length": 402.89,
+        "Road_Density": 26
+    },
+    {
+        "District": "Taplejung",
+        "Road_Length": 37.1,
+        "Road_Density": 1
+    },
+    {
+        "District": "Terhathum",
+        "Road_Length": 63.44,
+        "Road_Density": 9
+    },
+    {
+        "District": "Udayapur",
+        "Road_Length": 195.06,
+        "Road_Density": 9
+    }
+]
