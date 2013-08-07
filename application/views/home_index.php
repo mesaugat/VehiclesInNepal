@@ -2,14 +2,12 @@
 <div id="content">
 	<!-- PAGE WRAPPER -->
 	<div id="page-wrapper">
-		<div id="social-media">
-        	<ul id="social">
-            	<li id="facebook"><a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), 'facebook-share-dialog', 'width=626,height=436'); return false;"></a></li>
-            	<li id="twitter"><a href="#" onclick="window.open('http://twitter.com/share?url='+encodeURIComponent(location.href)+'&text=Vehicles in Nepal', 'twitter-share-dialog', 'width=626,height=262'); return false;"></a></li>
-            	<li id="plus"><a href="#" onclick="window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href), 'plus-share-dialog', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600'); return false;"></a></li>
-        	</ul>
-    	</div>
 		<h3>Introduction</h3><br />
+		<ul id="banner">
+			<li id="roads"><a href="<?= base_url() ?>roads"><img src="<?= base_url() ?>assets/img/total-roads.png" /></a></li>
+			<li id="vehicles"><a href="<?= base_url() ?>vehicles"><img src="<?= base_url() ?>assets/img/total-vehicles.png" /></a></li>
+			<li id="accidents"><a href="<?= base_url() ?>accidents"><img src="<?= base_url() ?>assets/img/total-accidents.png" /></a></li>
+		</ul><br />
 		<p id="content-vehicle" class="text">
 			The total population of Kathmandu Valley is around 2.7 million according to 2012 census report and is expected to exceed 4 million by 2020. With the population of Kathmandu Valley owing at 4.32%, Kathmandu is definitely one of the fast urbanizing cities in Asia (World Bank 2012). The population density of Kathmandu Valley was estimated to be 3,186 persons per km&sup2. The urban areas of the two municipalities Kathmandu and Lalitpur, within the Kathmandu valley, have the high density of 15,547 and 14,862 respectively. With the population and urbanization increasing at such an alarming rate, the vehicle population of the valley is also increasing. Out of 12 million vehicles registered in Nepal, 46.2% of the total vehicles in the country are registered in the Bagmati zone. The annual average growth rate of the total registered vehicles in the Valley from 1990-2011 is 14.3% and of motorbike only is 17%. In past 10 years, the number of registered vehicles has increased 3.75 times. With the Motorcycles dominating the vehicle composition by 73.2% and Car/Jeep/Van at 18.5% the transport dynamics is getting more and more private (almost 93% increase).
 		</p>
