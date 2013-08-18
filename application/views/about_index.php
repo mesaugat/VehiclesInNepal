@@ -37,7 +37,7 @@
                 <ol>
                     <li><p><a href="http://www.unescap.org/ttdw/common/Meetings/TIS/EGM-Roadsafety-2011/Status/Countries/Nepal-2010-Status.pdf" target="_blank">UNESCAP</a></p></li>
                     <li><p><a href="http://www.dor.gov.np/road_statistics_2004.php" target="_blank">Department of Road</a></p></li>
-                    <li><p><a href="http://dotm.gov.np/page/52/53/">Department of Transport Management</a></p></li>
+                    <li><p><a href="http://dotm.gov.np/page/52/53/" target="_blank">Department of Transport Management</a></p></li>
                     <li><p><a href="http://dor.gov.np/documents/RSAP_english.pdf" target="_blank">Nepal Road Safety Action Plan</a></p></li>
                 </ol>
             </div>
