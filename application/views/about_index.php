@@ -6,13 +6,13 @@
         <br />
             <div id="faq">
                 <h4>Q: What is Vehicles in Nepal(VIN)?</h4>
-                <p>VIN is a open-data project(website) which is free to use, reuse, and redistribute. This project is available on <b>GitHub</b> as <a href="http://github.com/mesaugat/VehiclesInNepal" target="_blank">VehiclesInNepal</a>.</p>
+                <p>VIN is a open-data project(website) which is free to use, reuse, and redistribute. This project is available on <b>GitHub</b>.</p>
                 <br />
                 <h4>Q: What is Vehicles in Nepal(VIN) for?</h4>
                 <p>This website contains information and statistics on roads, vehicles and accidents in Nepal. The name can be misleading though.</p>
                 <br />
                 <h4>Q: What type of information does VIN provide?</h4>
-                <p>This website provides specific information on the status of vehicles, accidents and road networks based on offcial data collected from various sources.</p>
+                <p>This website provides specific information on the status of vehicles, accidents and road networks based on official data collected from various sources.</p>
                 <br />
                 <h4>Q: Who is VIN for?</h4>
                 <p>It is for policy makers, citizens, engineers and everyone interested.</p>
@@ -33,7 +33,7 @@
                 <p>Anyone can contact us through <a href="<?= base_url() ?>contact">contact</a> page of this website. Any queries and suggestions are always welcome.</p>
             </div>
             <div id="source">
-                <h3>Data Sources</h3>
+                <h3>Official Data Sources</h3>
                 <ol>
                     <li><p><a href="http://www.unescap.org/ttdw/common/Meetings/TIS/EGM-Roadsafety-2011/Status/Countries/Nepal-2010-Status.pdf" target="_blank">UNESCAP</a></p></li>
                     <li><p><a href="http://www.dor.gov.np/road_statistics_2004.php" target="_blank">Department of Road</a></p></li>

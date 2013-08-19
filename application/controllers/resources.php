@@ -19,8 +19,14 @@
 				if (empty($table)) {
 					redirect('/resources');
 				} else {
+					$result = $this->resource->get_table($table);
 					$file = FCPATH . 'public/jsonp/' . $table . '.json';
+					$handle = fopen($file, 'w');
+					$json = json_encode($result);
+					file_put_contents($file, $json);		// put json into a file
 					$this->_downloadfile($file, $table);
+					$handle = fclose($handle);
+					// $this->_downloadfile($file, $table);
 					// redirect('../public/jsonp/' . $table . '.json');
 				}
 				/* HighCharts JSON
@@ -61,14 +67,7 @@
 				if (empty($table)) {
 					redirect('/resources');
 				} else {
-					$table = $this->input->post('table');
-					$file = FCPATH . 'public/xml/' . $table . '.xml';
-					$this->_downloadfile($file, $table);
-				}
-				//redirect('../public/xml/' . $table . '.xml');
-
-				/* XML Creation
-					$table = $this->input->post('table');
+					// Creation and Download
 					$result = $this->resource->get_table_object($table);
 					// load dbutil()
 					$this->load->dbutil();
@@ -84,7 +83,15 @@
 					file_put_contents($file, $XML);		// put xml contents to file
 					$this->_downloadfile($file, $table);	// download xml
 					fclose($handle);
-				
+					/*	Download Only
+						$table = $this->input->post('table');
+						$file = FCPATH . 'public/xml/' . $table . '.xml';
+						$this->_downloadfile($file, $table);
+					*/
+				}
+				//redirect('../public/xml/' . $table . '.xml');
+
+				/* XML Output
 					$this->output->set_content_type('text/xml; charset=utf-8');
 					$this->output->set_output($XML);
 				*/
@@ -101,10 +108,7 @@
 				if (empty($table)) {
 					redirect('/resources');
 				} else {
-					$file = FCPATH . 'public/csv/' . $table . '.csv';	// file location
-					$this->_downloadfile($file, $table);
-				}
-				/* CSV Creation
+					//
 					$result = $this->resource->get_table_object($table);
 					$this->load->dbutil();
 					$delimiter = ",";
@@ -115,7 +119,11 @@
 					file_put_contents($file, $result);
 					fclose($handle);
 					$this->_downloadfile($file, $table);
-				*/
+					/*	Download Only
+						$file = FCPATH . 'public/csv/' . $table . '.csv';	// file location
+						$this->_downloadfile($file, $table);
+					*/
+				}
 			} else {
 				$this->load->view('header');
 				$this->load->view('error_index');
